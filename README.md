@@ -48,6 +48,14 @@ receipt.txt – Generated after payment
 
 Each course includes duration, fee details, and description.
 
+## Screenshots
+
+### Main Menu
+![Menu](screenshots/menu.png)
+
+### Course Registration
+![Course](screenshots/course_menu.png)
+
 ## Author
 
 Monica N
