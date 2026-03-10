@@ -50,11 +50,12 @@ Each course includes duration, fee details, and description.
 
 ## Screenshots
 
-### Main Menu
-![Menu](screenshots/menu.png)
+<img width="1522" height="785" alt="Screenshot 2026-03-10 202708" src="https://github.com/user-attachments/assets/0b607498-c06a-4893-8061-7cc30c735306" />
 
-### Course Registration
-![Course](screenshots/course_menu.png)
+<img width="1554" height="655" alt="image" src="https://github.com/user-attachments/assets/88503d42-325e-4751-b55a-410856add1bf" />
+
+<img width="1515" height="702" alt="image" src="https://github.com/user-attachments/assets/c7a16257-f181-4a63-a10a-d3e7119d7619" />
+
 
 ## Author
 
