@@ -35,4 +35,21 @@ receipt.txt – Generated after payment
 
 1. Open terminal in the project folder
 2. Compile the program
+   javac RegistrationSystem.java
+3. Run the program
+   java RegistrationSystem
+
+
+## Sample Courses Available
+
+- Java Full Stack Development
+- Python with Data Science
+- Web Development (HTML, CSS, JavaScript)
+
+Each course includes duration, fee details, and description.
+
+## Author
+
+Monica N
+
 
